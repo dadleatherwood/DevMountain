@@ -1,1 +1,1 @@
-var name = "Jacob Leatherwood"
+var name = "Jacob A. Leatherwood"
